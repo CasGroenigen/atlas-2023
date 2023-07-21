@@ -1,0 +1,71 @@
+{
+	"id": 325,
+	"name": "Fietspad Sign",
+	"description": "A sign signifying a dedicated cycle track. A compulsory cycle track can be recognized by a blue round sign with a white bicycle. There are also rectangular blue signs that have the word 'Fietspad' printed on them, like the one depicted here. They indicate the presence of a cycling track that is not mandatory.",
+	"links": {
+		"subreddit": [
+			"PlaceNL"
+		],
+		"discord": [
+			"placenl"
+		]
+	},
+	"path": {
+		"45-68": [
+			[
+				314,
+				-496
+			],
+			[
+				314,
+				-485
+			],
+			[
+				313,
+				-484
+			],
+			[
+				296,
+				-484
+			],
+			[
+				296,
+				-463
+			],
+			[
+				294,
+				-463
+			],
+			[
+				294,
+				-484
+			],
+			[
+				277,
+				-484
+			],
+			[
+				276,
+				-485
+			],
+			[
+				276,
+				-496
+			],
+			[
+				277,
+				-497
+			],
+			[
+				313,
+				-497
+			]
+		]
+	},
+	"center": {
+		"45-68": [
+			295,
+			-490
+		]
+	}
+}

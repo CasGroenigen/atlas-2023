@@ -1,0 +1,95 @@
+{
+	"id": 199,
+	"name": "Red Pikmin",
+	"description": "Red Pikmin are a type of Pikmin in the Pikmin games that are immune to fire. They are the first type of Pikmin introduced in the games.",
+	"links": {
+		"website": [
+			"https://www.pikminwiki.com/Red_Pikmin"
+		],
+		"subreddit": [
+			"Pikmin"
+		]
+	},
+	"path": {
+		"24-38": [
+			[
+				109,
+				-501
+			],
+			[
+				109,
+				-496
+			],
+			[
+				107,
+				-494
+			],
+			[
+				107,
+				-492
+			],
+			[
+				106,
+				-491
+			],
+			[
+				106,
+				-489
+			],
+			[
+				110,
+				-483
+			],
+			[
+				110,
+				-480
+			],
+			[
+				120,
+				-480
+			],
+			[
+				120,
+				-483
+			],
+			[
+				119,
+				-484
+			],
+			[
+				119,
+				-486
+			],
+			[
+				121,
+				-488
+			],
+			[
+				124,
+				-488
+			],
+			[
+				124,
+				-492
+			],
+			[
+				122,
+				-492
+			],
+			[
+				117,
+				-496
+			],
+			[
+				117,
+				-501
+			]
+		]
+	},
+	"center": {
+		"24-38": [
+			114,
+			-490
+		]
+	}
+}
